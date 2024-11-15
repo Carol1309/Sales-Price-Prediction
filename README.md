@@ -1,5 +1,5 @@
 # Sales-Price-Prediction
-# Sales Price Prediction using Linear Regression
+
 # Objective:
 Develop a machine learning model to predict sales prices with high accuracy using linear regression.
 
